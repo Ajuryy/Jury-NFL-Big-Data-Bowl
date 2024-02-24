@@ -1,0 +1,7 @@
+#Import library to run the task
+
+import pandas as pd  #Pandas is a analysis of data in terms of rows and columns library for Python.
+
+import matplotlib.pyplot as plt  #Matplotlib is a plotting library for Python.
+
+import seaborn as sns  #Seaborn is a plotting library for Python and it visualize more effective way from matplotlib.
